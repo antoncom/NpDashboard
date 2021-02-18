@@ -1,0 +1,16 @@
+{
+    "manifest_version": 1.0,
+    "id": "np_dashboard",
+    "name": "NetPing Dashboard",
+    "version": "1.0",
+    "namespace": "NpDashboard",
+    "author": "Anton Gavrilyuk",
+    "url": "https://github.com/antoncom/NpDashboard",
+    "description": "This module adds 'NetPing Dashboard' page to Zabbix",
+    "actions": {
+        "npdashboard.view": {
+            "class": "NpDashboardView",
+            "view": "module.npdashboard.view"
+        }
+    }
+}
