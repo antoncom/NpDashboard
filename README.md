@@ -29,6 +29,7 @@
 
 ![enter image description here](https://github.com/antoncom/NpDashboard/blob/master/screenshorts/screenshort_code.png)
 
-
+Файл настроек расположен:
+**usr/share/zabbix/modules/NpDashboard/views/module.npdashboard.view.php**
 
 
