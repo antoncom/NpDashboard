@@ -16,7 +16,7 @@
 8. Перейдите в меню Zabbix: Menu -> Configuration -> NetPing Dashboard
 9. Пользуйтесь модулем.
 
-![enter image description here](https://github.com/antoncom/NpDashboard/blob/main/screenshorts/screenshort.png)
+![enter image description here](https://github.com/antoncom/NpDashboard/blob/master/screenshorts/screenshort.png)
 
 ## Настройка модуля
 
@@ -27,7 +27,7 @@
 * IP-адрес Dashboard
 * Порт Dashboard
 
-![enter image description here](https://github.com/antoncom/NpDashboard/blob/main/screenshorts/screenshort_code.png)
+![enter image description here](https://github.com/antoncom/NpDashboard/blob/master/screenshorts/screenshort_code.png)
 
 
 
